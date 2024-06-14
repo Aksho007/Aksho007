@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksho007&label=Profile%20views&color=0e75b6&style=flat" alt="aksho007" /> </p>
 
-- 🔭 I’m currently working on **Live Streaming Website**
+- 🔭 I’m currently working on **You-Search Website**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **react**
 
